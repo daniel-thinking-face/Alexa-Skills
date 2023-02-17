@@ -1,3 +1,5 @@
+![Alexa Skills Header](https://images-eu.ssl-images-amazon.com/images/G/02/skillsstore/gateway/billboard/Header_uk_2.jpg)
+
 # Alexa-Skills
 Repository containing some code for simple Alexa skills
 
